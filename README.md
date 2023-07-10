@@ -143,7 +143,7 @@ cat /etc/passwd
       name: docker
 ```
 
-	+ Link to tutorial -https://www.digitalocean.com/community/tutorials/how-to-use-ansible-to-install-and-set-up-docker-on-ubuntu-20-04 [Collection Index](https://docs.ansible.com/ansible/latest/collections/index.html)
+	+ Link to tutorial - [Collection Index](https://docs.ansible.com/ansible/latest/collections/index.html)
 	+ Link 2 , [tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-ansible-to-install-and-set-up-docker-on-ubuntu-20-04)
 	+ Link [trainwithshubham](https://www.trainwithshubham.com/blog/ansible-playbooks)
 - Then 
